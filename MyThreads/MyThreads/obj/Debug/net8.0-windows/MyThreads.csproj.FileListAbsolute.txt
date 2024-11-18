@@ -1,0 +1,16 @@
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\bin\Debug\net8.0-windows\MyThreads.exe
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\bin\Debug\net8.0-windows\MyThreads.deps.json
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\bin\Debug\net8.0-windows\MyThreads.runtimeconfig.json
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\bin\Debug\net8.0-windows\MyThreads.dll
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\bin\Debug\net8.0-windows\MyThreads.pdb
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.FrmTrackThread.resources
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.csproj.GenerateResource.cache
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.AssemblyInfoInputs.cache
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.AssemblyInfo.cs
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.csproj.CoreCompileInputs.cache
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.dll
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\refint\MyThreads.dll
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.pdb
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\MyThreads.genruntimeconfig.cache
+C:\Users\Kenn\source\repos\MyThreads\MyThreads\obj\Debug\net8.0-windows\ref\MyThreads.dll
